@@ -1,23 +1,17 @@
 # HOLA AMIGOS 👋
 
-## Informatics Student | Junior Data Analys
-
-My name is Akbar Rizky Gunawan and I am an informatics student from Amikom University Yogyakarta and I am interested in becoming a Data Analyst.
-
 I am always open to connecting with professionals in this field or discussing further regarding mutually beneficial collaboration opportunities.
 
+- 🫡 I'm Akbar Rizky Gunawan
+- 🏢 I’m an Informatics Student
+- 🔭 I’m interested  on Data Analyst
+- 🌱 Strive for progress, not perfection
+- 📍 I'm located in Special Region of Yogyakarta
+- ⚡ Fun fact: Naruto is better than One Piece 🤫🤫🤫
+- 📫 Connect with me on:
 
-<!-- 
-**MyuraMizura/MyuraMizura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/akbar.zro)  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/akbar-rizky-gunawan-b6793b29a/)  
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:akbarzeronf@gmail.com)
 
-Here are some ideas to get you started:  
 
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ...  
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...  
-- 💬 Ask me about ...  
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...  
-- ⚡ Fun fact: ...  
--->
