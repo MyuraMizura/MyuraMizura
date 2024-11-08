@@ -1,6 +1,6 @@
 # HOLA AMIGOS 👋
 
-## Informatics Student | Junior Data Analys | Musician
+## Informatics Student | Junior Data Analys
 
 My name is Akbar Rizky Gunawan and I am an informatics student from Amikom University Yogyakarta and I am interested in becoming a Data Analyst.
 
